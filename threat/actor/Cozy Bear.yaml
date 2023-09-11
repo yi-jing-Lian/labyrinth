@@ -1,0 +1,40 @@
+threat actor: Cozy Bear
+
+background: |
+    A Russian hacker group believed to be associated with one or more intelligence agencies of Russia.
+
+notable incidents:
+- Unknown Microsoft customer (2022)
+- Republican National Committee (2021)
+- SUNBURST malware supply chain attack (2020)
+- COVID-19 vaccine data (2020)
+- Operation Ghost
+- Dutch ministries (2017)
+- Norwegian government (2017)
+- US think tanks and NGOs (2016)
+- Democratic National Committee (2016)
+- Pentagon (August 2015)
+- Office Monkeys (2014)
+
+Malware Used:
+- HAMMERTOSS
+- SeaDuke
+- FatDuke
+- CozyCar
+- ...
+
+The vulnerabilities exploited:
+- CVE-2018-13379 – Fortinet FortiOS
+- CVE-2019-9670 – Zimbra Collaboration Suite
+- CVE-2019-11510 – Pulse Secure VPN Appliance
+- CVE-2019-19781 – Citrix ADC Network Gateway
+- CVE-2020-4006 – VMware Workspace ONE Access
+- CVE-2022-30170 – Windows Credential Roaming Service Elevation of Privilege Vulnerability.
+
+attribution: |
+    Russian hacker group believed to be associated with one or more intelligence agencies of Russia. The Dutch General Intelligence and Security Service (AIVD) deduced from security camera footage that it is led by the Russian Foreign Intelligence Service (SVR);[5] this view is shared by the United States.
+    
+sources of intelligence:
+- wikipedia
+- News Outlets
+- Cybersecurity Blogs and Forums
